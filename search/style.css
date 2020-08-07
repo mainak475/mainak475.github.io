@@ -19,7 +19,7 @@
 	box-sizing: border-box;
 
 }
-@media (max-device-width: 1000px) {
+@media (max-device-width: 480px) {
 	#google-search{
 		width: 100%
 	}
