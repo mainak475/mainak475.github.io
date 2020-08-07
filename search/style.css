@@ -19,15 +19,15 @@
 	box-sizing: border-box;
 
 }
-@media (max-device-width: 480px) {
+@media (max-device-width: 1000px) {
 	#google-search{
 		width: 100%
 	}
-	.disabled-link{
+	#disabled-link{
         cursor: default;
         pointer-events: none;        
         text-decoration: none;
-        color: white;
+        color: grey;
     }
 }
 #search:hover{
